@@ -1,0 +1,18 @@
+#header {
+    height: 100px;
+    border: 2px solid black;
+}
+
+#searchBox {
+    padding: 50px
+
+}
+
+#input-block {
+    padding: 10px;
+}
+
+.header-container {
+    margin: 25px 0px 25px 0px;
+}
+
